@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning dart<br>🎯 Goals: Support individuals in their daily challenges.<br>I stand out for my communication and teamwork skills, along with extensive knowledge in desktop and mobile application development.</p>
+<p align="left">📚 I'm currently working in STEL Order and learning dart<br>🎯 Goals: Support individuals in their daily challenges.<br>I stand out for my communication and teamwork skills, along with extensive knowledge in desktop and mobile application development.</p>
 
 ###
 
